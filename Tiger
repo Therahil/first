@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <link href="https://fonts.googleapis.com/css?family=Markazi+Text" rel="stylesheet">
+        
+        <meta charset="utf-8">
+        
+        <title>Tiger</title>
+    </head>
+    
+    <body>
+        
+        <h1>
+            <em>What  is  a  tiger?</em>
+        </h1>
+        
+        <p class="first">The <a href="https://en.wikipedia.org/wiki/Tiger" title="Tiger-Wikipedia" target="_blank">tiger</a>  is  the  <strong>
+            largest</strong>  cat  species ,  most  recognizable  for  its  pattern  of  &lt;dark&gt;  vertical  stripes  on  reddish-orange  fur  with  a  lighter  underside.  The  species  is  classified  in  the  genus  Panthera  with  the</p>
+        
+        <ul> <li>lion</li>
+            <li>leopard</li>
+            <li>jaguar</li>
+            <li>snow  leopard</li>
+        </ul>
+        
+        <input type="text">
+        
+        <input type="text" disabled>
+        
+        <img src="images/tiger.jpg" alt="tiger">   
+    
+    </body>
+</html>
+    
